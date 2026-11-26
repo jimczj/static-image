@@ -4,15 +4,16 @@
 
 | 文件 | 内容 |
 |---|---|
-| `images/paiyouji-multi.webp` | 多人模式，5 张带壳截图 |
-| `images/paiyouji-single.webp` | 单人模式，4 张带壳截图 |
+| `images/paiyouji-multi-tall.webp` | 多人模式，1200×4283 竖屏版，每行 2 张共 3 行 |
+| `images/paiyouji-single-tall.webp` | 单人模式，1200×3042 竖屏版，每行 2 张共 2 行 |
 | `images/paiyouji-qrcode.webp` | 小程序码，900×900 无损 |
+| `images/paiyouji-multi.webp` / `paiyouji-single.webp` | 旧版横排合图，保留以免旧链接失效 |
 
 外链地址（jsDelivr 兼容镜像，国内可用）：
 
 ```
-https://cdn.jsdmirror.com/gh/jimczj/static-image@main/images/paiyouji-multi.webp
-https://cdn.jsdmirror.com/gh/jimczj/static-image@main/images/paiyouji-single.webp
+https://cdn.jsdmirror.com/gh/jimczj/static-image@main/images/paiyouji-multi-tall.webp
+https://cdn.jsdmirror.com/gh/jimczj/static-image@main/images/paiyouji-single-tall.webp
 https://cdn.jsdmirror.com/gh/jimczj/static-image@main/images/paiyouji-qrcode.webp
 ```
 
