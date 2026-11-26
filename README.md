@@ -14,4 +14,6 @@ https://cdn.jsdmirror.com/gh/jimczj/static-image@main/images/paiyouji-multi.webp
 https://cdn.jsdmirror.com/gh/jimczj/static-image@main/images/paiyouji-single.webp
 ```
 
-想换回官方 CDN，把 `cdn.jsdmirror.com` 改成 `cdn.jsdelivr.net` 就行，路径不用动。
+别换成官方 `cdn.jsdelivr.net`：它对 `/gh/` 路径会 301 跳到 `raw.githubusercontent.com`，国内基本打不开。实测 `cdn.jsdmirror.com` 两个文件都是 200。
+
+改图别覆盖同名文件，`@main` 有缓存；换新文件名，或者锁 commit hash。

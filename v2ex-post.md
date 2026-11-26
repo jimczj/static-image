@@ -17,4 +17,4 @@
 
 ---
 
-发帖时选 Markdown 模式。仓库名用 `static-image` 的话上面链接不用改；`jsdmirror` 打不开就把域名换成 `cdn.jsdelivr.net`。
+发帖时选 Markdown 模式。图片走 `cdn.jsdmirror.com`，已实测可访问；别换 `cdn.jsdelivr.net`，它会跳到国内打不开的 raw.githubusercontent.com。
