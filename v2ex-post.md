@@ -13,7 +13,11 @@
 
 ![单人模式](https://cdn.jsdmirror.com/gh/jimczj/static-image@main/images/paiyouji-single.webp)
 
-微信搜「牌友迹」就能用，有问题欢迎提。
+微信搜「牌友迹」，或者扫码：
+
+![小程序码](https://cdn.jsdmirror.com/gh/jimczj/static-image@main/images/paiyouji-qrcode.webp)
+
+有问题欢迎提。
 
 ---
 

@@ -6,14 +6,16 @@
 |---|---|
 | `images/paiyouji-multi.webp` | 多人模式，5 张带壳截图 |
 | `images/paiyouji-single.webp` | 单人模式，4 张带壳截图 |
+| `images/paiyouji-qrcode.webp` | 小程序码，900×900 无损 |
 
 外链地址（jsDelivr 兼容镜像，国内可用）：
 
 ```
 https://cdn.jsdmirror.com/gh/jimczj/static-image@main/images/paiyouji-multi.webp
 https://cdn.jsdmirror.com/gh/jimczj/static-image@main/images/paiyouji-single.webp
+https://cdn.jsdmirror.com/gh/jimczj/static-image@main/images/paiyouji-qrcode.webp
 ```
 
-别换成官方 `cdn.jsdelivr.net`：它对 `/gh/` 路径会 301 跳到 `raw.githubusercontent.com`，国内基本打不开。实测 `cdn.jsdmirror.com` 两个文件都是 200。
+别换成官方 `cdn.jsdelivr.net`：它对 `/gh/` 路径会 301 跳到 `raw.githubusercontent.com`，国内基本打不开。实测 `cdn.jsdmirror.com` 可正常访问。
 
 改图别覆盖同名文件，`@main` 有缓存；换新文件名，或者锁 commit hash。
