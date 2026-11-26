@@ -1,4 +1,4 @@
-# paiyouji-images
+# static-image
 
 牌友迹小程序的宣传截图，供 V2EX 帖子外链使用。
 
@@ -10,8 +10,8 @@
 外链地址（jsDelivr 兼容镜像，国内可用）：
 
 ```
-https://cdn.jsdmirror.com/gh/jimczj/paiyouji-images@main/images/paiyouji-multi.webp
-https://cdn.jsdmirror.com/gh/jimczj/paiyouji-images@main/images/paiyouji-single.webp
+https://cdn.jsdmirror.com/gh/jimczj/static-image@main/images/paiyouji-multi.webp
+https://cdn.jsdmirror.com/gh/jimczj/static-image@main/images/paiyouji-single.webp
 ```
 
 想换回官方 CDN，把 `cdn.jsdmirror.com` 改成 `cdn.jsdelivr.net` 就行，路径不用动。
