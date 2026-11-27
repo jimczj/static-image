@@ -9,13 +9,13 @@
 
 不用注册，不用加好友。只管记分，规则你们自己定。
 
-![多人模式](https://cdn.jsdmirror.com/gh/jimczj/static-image@main/images/paiyouji-multi-tall.webp)
+![多人模式](https://cdn.jsdmirror.com/gh/jimczj/static-image@8a0aa48/images/paiyouji-multi-tall.webp)
 
-![单人模式](https://cdn.jsdmirror.com/gh/jimczj/static-image@main/images/paiyouji-single-tall.webp)
+![单人模式](https://cdn.jsdmirror.com/gh/jimczj/static-image@8a0aa48/images/paiyouji-single-tall.webp)
 
 微信搜「牌友迹」，或者扫码：
 
-![小程序码](https://cdn.jsdmirror.com/gh/jimczj/static-image@main/images/paiyouji-qrcode.webp)
+![小程序码](https://cdn.jsdmirror.com/gh/jimczj/static-image@8a0aa48/images/paiyouji-qrcode.webp)
 
 有问题欢迎提。
 
